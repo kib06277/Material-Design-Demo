@@ -1,7 +1,7 @@
 # Material-Design-Demo
->**这是一个集合了Android5.0的Material Design新控件与2015年Google IO 大会所推出的Android Design Support Library新控件的集合Demo，集合了CoordinatorLayout，Floating Action Button，NavigationDrawe，Snackbar，TabLayout与ToolBar，CardView等5.0之后所出的新控件，是Android开发者学习Material Design风格控件的一份很完整的资料，欢迎下载学习 ChinaLHR**
+>**這是一個集合了 Android 5.0 的 Material Design 新物件與 2015 年 Google IO 大會所推出的 Android Design Support Library 新物件的集合 Demo，集合了 CoordinatorLayout，Floating Action Button，NavigationDrawe，Snackbar，TabLayout 與 ToolBar， CardView 等5.0之後所出的新物件，是 Android 開發者學習 Material Design 風格控件的一份很完整的資料，歡迎下載學習 ChinaLHR**
 
-## 效果图
+## 效果圖
 ![](https://raw.githubusercontent.com/ChinaLHR/Material-Design-Demo/master/gif/1.gif)
 ![](https://raw.githubusercontent.com/ChinaLHR/Material-Design-Demo/master/gif/2.gif)
 ![](https://raw.githubusercontent.com/ChinaLHR/Material-Design-Demo/master/gif/3.gif)
